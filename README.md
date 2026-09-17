@@ -9,3 +9,9 @@ Nguồn phần mềm và công cụ sử dụng:
 - Canva: Canva AI (tích hợp nguồn ảnh Unsplash). 
 - Khác: Notepad++ (Mã nguồn mở/Don Ho), Firefox (Mozilla), Grammarly (Grammarly Inc.), Pexels (Nguồn ảnh miễn phí). 
 Nguồn Tham khảo: AI Gemini
+
+Mô tả: Infographic trình bày về các ứng dụng của Trí tuệ nhân tạo (AI) trong lĩnh vực công nghệ thông tin (như An ninh mạng, Phân tích dữ liệu, Xử lý ngôn ngữ tự nhiên, v.v.).
+
+Trích dẫn nguồn: Infographic được tạo bằng Canva AI.
+
+Giấy phép: Chia sẻ theo Giấy phép Creative Commons Attribution (CC BY).
